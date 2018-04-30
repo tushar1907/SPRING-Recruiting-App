@@ -56,8 +56,5 @@ System Features
 * User access logs based on Spring AOP
 * Cross-browser compatibility of Chrome/Firefox/IE
 
-About
------------------------------------
-* [Github link](https://github.com/ZhibingXie)
-* [Linkedin link](http://www.linkedin.com/in/zhibingxie)
+
 
